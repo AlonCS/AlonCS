@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alonzo Cabrera Sanchez (@AlonCS), I am a student at Hartnell College, majoring in Electrical Engineering, with a focus on developing innovative robotic solutions for agriculture and advancing sustainable farming technologies.
+- 👀 I’m interested in Robotics and machine learning in agriculture 
+- 🌱 I’m currently working in node.js for servers 
+- 📫 How to reach me alonzocabrera48@gmail.com
